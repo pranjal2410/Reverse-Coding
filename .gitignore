@@ -1,0 +1,6 @@
+.idea
+db.sqlite3
+problem3/__pycache__
+project/viewsduplicate
+project/__pycache__
+project/migrations
